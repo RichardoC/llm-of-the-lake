@@ -1,7 +1,6 @@
 {
-        "callable": "FilmScheduleApp",
-        "name": "EMF 2024 Film Schedule",
+        "callable": "LLMOfTheLakeApp",
+        "name": "LLM of the Lake",
         "category": "unknown",
         "hidden": false
-    }
-
+}

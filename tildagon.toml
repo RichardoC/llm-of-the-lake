@@ -1,6 +1,6 @@
 [app]
 # The name of your app as displayed in the menu
-name = "API Demo"
+name = "LLM of the Lake"
 
 # The submenu where your app should appear.
 # One of: "Badge", "Music", "Media", "Apps", "Games"
@@ -14,27 +14,27 @@ category = "Badge"
 # OPTIONAL: If your app prefers wifi to be off or on when entering.
 # Useful if you want more resources (false) or need wifi (true).
 # Remove if you don't want to change wifi state!
-# wifi_preference = false
+wifi_preference = true
 
 [entry]
 # The name of your entry point `Application` class
-class = "FilmScheduleApp"
+class = "LLMOfTheLakeApp"
 
 [metadata]
 # Your nickname.  Must be at most 32 characters!
-author = "proffalken"
+author = "RichatdoC"
 
 # License of your app as an SPDX identifier: <https://spdx.org/licenses/>
 license = "MIT"
 
 # URL to the repository of your app.
-url = "https://github.com/proffalken/tildagon-basic-api-demo"
+url = "https://github.com/RichardoC/llm-of-the-lake"
 
 # Description of your app.  Maximum 140 characters!
-description = "A demo tildagon app for showing how to explore an api"
+description = " Get the "wisdom" from an on site LLM "
 
 # Version number of your app.  If you push a commit where this number is
 # increased, we interpret this as a new version being released.
 #
 # Version number must be an integer!
-version = "0.0.2"
+version = "0.0.1"

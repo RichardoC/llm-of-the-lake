@@ -8,6 +8,6 @@ That's all it does.
 
 ## FAQ
 
-### What happens if I select a film tile?
+### What happens if I select a line?
 
 Absolutely nothing.

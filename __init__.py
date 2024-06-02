@@ -1,1 +1,1 @@
-from .app import FilmScheduleApp
+from .app import LLMOfTheLakeApp
